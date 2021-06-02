@@ -1,3 +1,4 @@
+//27May2021
 //https://www.codechef.com/problems/LUCKYFR
 import java.io.*;
 
