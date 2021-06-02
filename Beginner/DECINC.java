@@ -10,5 +10,6 @@ public class DECINC {
     if(n%4==0) System.out.println(n+1);
     else System.out.println(n-1);
     br.close();
+    
   }
 }
